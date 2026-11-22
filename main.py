@@ -12,7 +12,7 @@ pg = st.navigation([
     # st.Page("views/timing.py", title="視聴者の時間帯"), 後で追加したい
 ])
 
-st.caption("データ元：YouTube Studio のCSV書き出し（2026/11/20時点）")
+st.caption("データ元：YouTube Studio のCSV書き出し（2026/11/21時点）")
 
 pg.run()
 

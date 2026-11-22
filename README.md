@@ -3,7 +3,7 @@
 自分のYouTubeチャンネル「きなこもち」のデータを分析するWebアプリです。
 YouTube Studio の標準画面では答えにくい「何が視聴回数や登録者につながっているのか」を調べるために作りました。
 
-- アプリ：[公開URLをここに貼る]
+- アプリ：https://omochi-analytics.streamlit.app/
 - 使用技術：Python / pandas / NumPy / Streamlit / Plotly
 
 ![概要ページ](docs/overview.png)
