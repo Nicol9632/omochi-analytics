@@ -1,0 +1,9 @@
+# Pythonが自動で作るファイル
+__pycache__/
+*.pyc
+
+# APIキー
+.env
+
+# 古いデータ
+data/raw/old/
